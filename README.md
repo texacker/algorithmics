@@ -1,5 +1,10 @@
-# Algebraic Data Type
+# The Categorical Approach to Algorithms
 
-# Algorithm
+## Algebraic Theories
 
-# Programming
+## Algorithm
+
+## Programming
+### Functional Programming
+#### Laziness
+#### Recursion
