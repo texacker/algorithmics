@@ -7,5 +7,5 @@
 ## Programming
 ### Functional Programming
 #### Algebraic Data Types
-#### Laziness
 #### Recursion
+#### Laziness
