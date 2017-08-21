@@ -1,5 +1,5 @@
--- From :
---   Richard Bird, Pearls of Functional Algorithm Design, Ch. 1
+-- References :
+-- [1] Richard Bird, Pearls of Functional Algorithm Design, Ch.1
 
 module Main where
 
