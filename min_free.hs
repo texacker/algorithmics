@@ -1,5 +1,6 @@
 -- References :
 -- [1] Richard Bird, Pearls of Functional Algorithm Design, Ch.1
+-- [2] https://github.com/liuxinyu95/AlgoXY/blob/algoxy/others/preface/src/MinFree.hs
 
 module Main where
 
