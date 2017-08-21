@@ -1,4 +1,4 @@
--- Compute the minimum depth of a binary tree
+-- Computes the minimum depth of a binary tree
 
 module Main where
 
