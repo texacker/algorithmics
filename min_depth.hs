@@ -51,6 +51,7 @@ min_depth bt = ( md bt ) 0 maxBound
               in
                 __mindepth
             )
+
         md_Leaf :: Int ->
                    MD_BTree
         md_Leaf value_ =
