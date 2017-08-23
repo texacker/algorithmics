@@ -1,11 +1,12 @@
-# The Categorical Approach to Algorithms
+# Outline
+## The Categorical Approach to Algorithms
 
-## Algebraic Theories
+### Algebraic Theories
 
-## Algorithm
+### Algorithm
 
-## Programming
-### Functional Programming
-#### Algebraic Data Types
-#### Recursion
-#### Laziness
+### Programming
+#### Functional Programming
+##### Algebraic Data Types
+##### Recursion
+##### Laziness
