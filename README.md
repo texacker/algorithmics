@@ -1,4 +1,4 @@
-# Outline
+# Outline :
 ## The Categorical Approach to Algorithms
 
 ### Algebraic Theories
