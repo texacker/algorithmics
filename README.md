@@ -1,5 +1,5 @@
 # Outline :
-## The Categorical Approach to Algorithms
+## The Categorical ( Metamorphic ) Approach to Algorithms
 
 ### Algebraic Theories
 
