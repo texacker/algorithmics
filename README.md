@@ -11,5 +11,5 @@
 ##### Recursion
 ##### Laziness
 
-###  References :
+###  References
 1. Richard Bird, _"Pearls of Functional Algorithm Design"_, Cambridge University Press, 1 edition, 2010.
