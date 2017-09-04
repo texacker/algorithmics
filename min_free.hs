@@ -13,14 +13,14 @@ type T_minfree = ( [Int], Int, Int )
 
 min_free :: [Int] -> Maybe Int
 min_free a
-  = find ( iterate f x )
+  = last ( iterate f x )
       where
-        find :: [ T_minfree ] -> Maybe Int
-        find b = case b of
+        last :: [ T_minfree ] -> Maybe Int
+        last b = case b of
                    []     -> Nothing
                    (x:xs) -> case x of
                                ( [], l, _ ) -> Just l
-                               otherwise    -> find xs
+                               otherwise    -> last xs
 
         x :: T_minfree
         x = ( a, 0, (DL.length a - 1) )
