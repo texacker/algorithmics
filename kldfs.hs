@@ -1,4 +1,4 @@
--- Refactoring of King and Launchbury's implementation of depth-first search
+-- Metamorphic refactoring of King and Launchbury's implementation of depth-first search
 
 -- References :
 -- [1] Fethi Rabhi, Guy Lapalme, Algorithms: A Functional Programming Approach, Addison-Wesley, 2nd ed., 1999.
@@ -7,6 +7,8 @@
 module Main where
 
 import Data.Ix
+
+-- Set implementation, from Ch.5 of [1]
 
 {--- List implementation ---}
 newtype Set a = St [a]
@@ -60,6 +62,8 @@ testGraph = v1
     v5 = Graph 5 [(v1, 78), (v2, 32), (v3, 44), (v4, 93)]
 
 {-- End of Pointer representation --}
+
+-- dfs catamorphisms
 
 data Tree v = Tree v [Tree v]
               deriving Show
