@@ -22,6 +22,8 @@ min_free a
                                ( [], l, _ ) -> Just l
                                otherwise    -> last xs
 
+        -- minfree anamorphism
+
         x :: T_minfree
         x = ( a, 0, (DL.length a - 1) )
 
