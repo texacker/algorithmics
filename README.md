@@ -10,12 +10,6 @@
 #### Functional Programming
 FP = ADT + Laziness + Recursion
 
-##### Algebraic Data Types
-
-##### Recursion
-
-##### Laziness
-
 ###  References
 1. Fethi Rabhi, Guy Lapalme, _Algorithms: A Functional Programming Approach_, Addison-Wesley, 2nd ed., 1999.
 1. [Benjamin C. Pierce](http://www.cis.upenn.edu/~bcpierce/), _Basic Category Theory for Computer Scientists_, The MIT Press, 1991.
