@@ -6,9 +6,14 @@
 ### Algorithm
 
 ### Programming
+
 #### Functional Programming
+FP = ADT + Laziness + Recursion
+
 ##### Algebraic Data Types
+
 ##### Recursion
+
 ##### Laziness
 
 ###  References
