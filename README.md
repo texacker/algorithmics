@@ -8,7 +8,7 @@
 ### Programming
 
 #### Functional Programming
-FP = ADT + Recursion + Laziness
+FP = ADT + Laziness + Recursion
 
 ###  References
 1. Fethi Rabhi, Guy Lapalme, _Algorithms: A Functional Programming Approach_, Addison-Wesley, 2nd ed., 1999.
