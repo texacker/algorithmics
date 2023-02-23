@@ -8,7 +8,7 @@
 ### Programming
 
 #### Functional Programming
-FP = ADT + AG + Laziness
+FP = ADT + ( AG + Laziness )
 
 ###  References
 1. Fethi Rabhi, Guy Lapalme, _Algorithms: A Functional Programming Approach_, Addison-Wesley, 2nd ed., 1999.
