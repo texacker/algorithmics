@@ -10,6 +10,8 @@
 #### Functional Programming
 FP = ADT + ( AG + Laziness )
 
+### Appendix
+
 ###  References
 1. Fethi Rabhi, Guy Lapalme, _Algorithms: A Functional Programming Approach_, Addison-Wesley, 2nd ed., 1999.
 1. [Benjamin C. Pierce](http://www.cis.upenn.edu/~bcpierce/), _Basic Category Theory for Computer Scientists_, The MIT Press, 1991.
@@ -18,4 +20,4 @@ FP = ADT + ( AG + Laziness )
 1. Erik Meijer, Maarten Fokkinga, Ross Paterson, _[Functional Programming with Bananas, Lenses, Envelopes and Barbed Wire](http://eprints.eemcs.utwente.nl/7281/01/db-utwente-40501F46.pdf)_, Springer-Verlag, 1991.
 1. [Richard Bird](http://www.cs.ox.ac.uk/richard.bird/), _Pearls of Functional Algorithm Design_, Cambridge University Press, 2010.
 1. Miran Lipovaca, _[Learn You a Haskell for Great Good! A Beginner's Guide](http://learnyouahaskell.com/)_, No Starch Press, 2011.
-
+1. _[The Haskell Cabal](https://www.haskell.org/cabal/)_
