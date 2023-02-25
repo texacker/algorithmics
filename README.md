@@ -11,7 +11,7 @@
 FP = ADT + ( AG + Laziness )
 
 ### Appendix
-#### Haskell Tool Chain
+#### Haskell Toolchain and Tools
 ```bash
 curl --proto '=https' --tlsv1.2 -sSf https://get-ghcup.haskell.org | sh
 
