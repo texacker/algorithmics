@@ -21,3 +21,4 @@ FP = ADT + ( AG + Laziness )
 1. [Richard Bird](http://www.cs.ox.ac.uk/richard.bird/), _Pearls of Functional Algorithm Design_, Cambridge University Press, 2010.
 1. Miran Lipovaca, _[Learn You a Haskell for Great Good! A Beginner's Guide](http://learnyouahaskell.com/)_, No Starch Press, 2011.
 1. _[The Haskell Cabal](https://www.haskell.org/cabal/)_
+1. _[GHCup](https://gitlab.haskell.org/haskell/ghcup-hs)_
