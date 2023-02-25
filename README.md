@@ -11,6 +11,15 @@
 FP = ADT + ( AG + Laziness )
 
 ### Appendix
+```bash
+curl --proto '=https' --tlsv1.2 -sSf https://get-ghcup.haskell.org | sh
+
+# or
+
+curl --proto '=https' --tlsv1.2 -sSf https://get-ghcup.haskell.org > ./bootstrap-haskell && \
+chmod a+x ./bootstrap-haskell && \
+proxychains ./bootstrap-haskell
+```
 
 ###  References
 1. Fethi Rabhi, Guy Lapalme, _Algorithms: A Functional Programming Approach_, Addison-Wesley, 2nd ed., 1999.
