@@ -1,17 +1,18 @@
-# Outline :
-## The Categorical (Metamorphic) Approach to Algorithms
+# The Categorical (Metamorphic) Approach to Algorithms
 
-### Algebraic Theories
+## Algebraic Theories
 
-### Algorithm
+## Algorithm
 
-### Programming
+## Programming
 
-#### Functional Programming
+### Functional Programming
 FP = ADT + ( AG + Laziness )
 
-### Appendix
-#### Haskell Toolchain and Tools
+## Appendix
+### Haskell Toolchain and Tools
+
+#### haskell-platform
 ```bash
 sudo debfoster ghc ghc-doc ghc-prof haskell-doc cabal-install
 
@@ -20,7 +21,7 @@ sudo debfoster ghc ghc-doc ghc-prof haskell-doc cabal-install
 sudo debfoster haskell-platform haskell-platform-doc haskell-platform-prof
 ```
 
-#### Haskell Toolchain and Tools
+#### ghcup
 ```bash
 sudo debfoster build-essential curl libffi-dev libffi6 libgmp-dev libgmp10 libncurses-dev libncurses5 libtinfo5
 
@@ -33,7 +34,7 @@ chmod a+x ./bootstrap-haskell && \
 proxychains ./bootstrap-haskell
 ```
 
-###  References
+##  References
 1. Fethi Rabhi, Guy Lapalme, _Algorithms: A Functional Programming Approach_, Addison-Wesley, 2nd ed., 1999.
 1. [Benjamin C. Pierce](http://www.cis.upenn.edu/~bcpierce/), _Basic Category Theory for Computer Scientists_, The MIT Press, 1991.
 1. [Steve Awodey](http://www.andrew.cmu.edu/user/awodey/), _Category Theory_, Oxford University Press, 2nd ed., 2010.
