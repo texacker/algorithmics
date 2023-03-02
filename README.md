@@ -12,15 +12,6 @@ FP = ADT + ( AG + Laziness )
 ## Appendix
 ### Haskell Toolchain and Tools
 
-#### haskell-platform
-```bash
-sudo debfoster ghc ghc-doc ghc-prof haskell-doc cabal-install
-
-# or
-
-sudo debfoster haskell-platform haskell-platform-doc haskell-platform-prof
-```
-
 #### ghcup
 ```bash
 sudo debfoster build-essential curl libffi-dev libffi6 libgmp-dev libgmp10 libncurses-dev libncurses5 libtinfo5
@@ -32,6 +23,16 @@ curl --proto '=https' --tlsv1.2 -sSf https://get-ghcup.haskell.org | sh
 curl --proto '=https' --tlsv1.2 -sSf https://get-ghcup.haskell.org > ./bootstrap-haskell && \
 chmod a+x ./bootstrap-haskell && \
 proxychains ./bootstrap-haskell
+```
+
+#### haskell-platform
+```bash
+sudo debfoster haskell-platform haskell-platform-doc haskell-platform-prof
+```
+
+#### ghc & cabal
+```bash
+sudo debfoster ghc ghc-doc ghc-prof haskell-doc cabal-install
 ```
 
 ##  References
